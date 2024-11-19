@@ -20,4 +20,4 @@ Dart Studio
 
 ### Gear install
 
-### Pick & Plack
+### Pick & Place
